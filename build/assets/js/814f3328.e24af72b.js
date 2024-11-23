@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstormforge_wiki=self.webpackChunkstormforge_wiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome StormForge","permalink":"/stormforge-wiki/blog/welcome-stormforge","unlisted":false,"date":"2024-11-22T00:00:00.000Z"}]}')}}]);
