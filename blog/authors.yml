@@ -1,0 +1,11 @@
+brian:
+  name: Brian Rahadi
+  title: SFU Surge Co-Director of Logistics
+  url: https://brianrahadi.com
+  image_url: https://github.com/brianrahadi.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-brian-rahadi-articles'
+  socials:
+    linkedin: brianrahadi
+    github: brianrahadi

@@ -1,0 +1,41 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Primary theme colors based on the background */
+  --ifm-color-primary: #3b62f5; /* Base blue tone */
+  --ifm-color-primary-dark: #2a46b8; /* Darker shade of blue */
+  --ifm-color-primary-darker: #1f357d; /* Darkest shade */
+  --ifm-color-primary-darkest: #192963;
+  --ifm-color-primary-light: #5c7efd; /* Lighter shade */
+  --ifm-color-primary-lighter: #7d98ff; /* Lightest shade */
+  --ifm-color-primary-lightest: #a3baff;
+
+  /* Code styling adjustments */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Background gradients inspired by the uploaded image */
+  --page-background: linear-gradient(135deg, #3b62f5, #ffb86f, #ff865e);
+}
+
+[data-theme='dark'] {
+  /* Adjust colors for dark mode */
+  --ifm-color-primary: #5c7efd; /* Brighter tone */
+  --ifm-color-primary-dark: #4e6bd8;
+  --ifm-color-primary-darker: #445bc0;
+  --ifm-color-primary-darkest: #364595;
+  --ifm-color-primary-light: #7d98ff;
+  --ifm-color-primary-lighter: #a3baff;
+  --ifm-color-primary-lightest: #c0cfff;
+
+  /* Adjust code line background for dark mode */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+
+  /* Background gradients for dark mode */
+  --page-background: linear-gradient(135deg, #192963, #ff6f9f, #ffd460);
+}
