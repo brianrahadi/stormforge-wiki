@@ -1,6 +1,6 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 
-# 🎨 Designer Resources
+# Figma
 - https://coolors.co/ to generate color pallets with its Figma Plugin and easily embed into CSS

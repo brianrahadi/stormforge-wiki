@@ -58,4 +58,4 @@ Here's some resources that can get you started:
 Stay tuned for my next few resources on mapping the user journey, sketching low-fidelity wireframes, prototyping high-fidelity mockups, and designer-developer handoff! 🫶
 
 
-by: Christina Raganit - Director of Product Design
+by Christina Raganit - Director of Product Design
